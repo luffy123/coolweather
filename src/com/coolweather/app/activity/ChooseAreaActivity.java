@@ -2,6 +2,7 @@ package com.coolweather.app.activity;
 
 import java.util.ArrayList;
 
+
 import java.util.List;
 
 import com.coolweather.app.db.CoolWeatherDB;
